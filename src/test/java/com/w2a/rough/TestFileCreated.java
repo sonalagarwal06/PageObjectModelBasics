@@ -5,6 +5,13 @@ import org.testng.annotations.Test;
 
 public class TestFileCreated {
 
+
+  @Test
+    public void test3WayMerge()
+  {
+      System.out.println("Jui is mad, cow buffalo cat");
+  }
+
 @Test
 
     public void abc()
@@ -15,5 +22,6 @@ public class TestFileCreated {
     {
         System.out.println("surefire error1");
     }
+
 
 }
