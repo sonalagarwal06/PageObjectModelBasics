@@ -23,5 +23,10 @@ public class TestFileCreated {
         System.out.println("surefire error1");
     }
 
+    public void abc2()
+    {
+        System.out.println("checkout commit to a new branch");
+    }
+
 
 }
