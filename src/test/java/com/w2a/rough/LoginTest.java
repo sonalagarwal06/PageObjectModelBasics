@@ -20,6 +20,7 @@ public class LoginTest {
 		CreateAccountPage cap = account.gotoCreateAccounts();
 		cap.createAccount("Raman");
 		System.out.println("test merge");
+		System.out.println("test");
 		//driver.manage.window.maximze()
 
 		
