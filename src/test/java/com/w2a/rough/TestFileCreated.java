@@ -18,6 +18,7 @@ public class TestFileCreated {
 {
     System.out.println("surefire error");
 }
+    @Test
     public void abc1()
     {
         System.out.println("surefire error1");
